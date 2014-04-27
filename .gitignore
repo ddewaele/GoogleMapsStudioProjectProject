@@ -31,3 +31,5 @@ local.properties
 *.ipr
 *~
 *.swp
+
+GoogleMapsStudioProject/build/
